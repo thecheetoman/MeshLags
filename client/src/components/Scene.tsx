@@ -24,7 +24,9 @@ interface MeshData {
 
 // Available models in the geometries folder
 const AVAILABLE_MODELS = [
-  '/geometries/heart.gltf'
+  '/geometries/honda.glb',
+  '/geometries/t98_main_battle_tank.glb',
+  '/geometries/5090.glb'
   
   // Add more model paths here as you add them to the folder
   // Both .gltf and .glb files are supported
