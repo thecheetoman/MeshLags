@@ -21,3 +21,16 @@ you hav successfuly given goo goo lag mesh gahhhhh
 
 
 
+## Adding more meshes
+
+Edit ```Scene.tsx``` in ```client/src/components/```, 
+
+go to line 26 and look to add more meshs.
+
+```const AVAILABLE_MODELS = [
+  '/geometries/heart.gltf'
+  
+  // Add more model paths here as you add them to the folder
+  // Both .gltf and .glb files are supported
+  // use dam comma man
+]; 
