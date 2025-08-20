@@ -28,9 +28,7 @@ const AVAILABLE_MODELS = [
   
   // Add more model paths here as you add them to the folder
   // Both .gltf and .glb files are supported
-  // '/geometries/another-model.gltf',
-  // '/geometries/cool-model.glb',
-  // '/geometries/character.glb',
+  // use dam comma man
 ];
 
 export default function Scene() {
